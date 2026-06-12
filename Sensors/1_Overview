@@ -1,0 +1,22 @@
+List of sensors:
+
+version control:
+Chrome
+Edge
+Firefox
+WS1 hub
+
+Identity:
+Entra IDP
+On-Prem AD
+
+Distro:
+Kernel Version
+Architeture
+Distro Name
+Distro Release
+
+Santiy:
+SSH enabled
+Hostname
+Logged in users
